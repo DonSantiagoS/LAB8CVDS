@@ -1,0 +1,41 @@
+body{
+	
+	background-image: url("https://www.coverstyl.com/dpics/articles/J6_detail.jpg");
+	background-position: center;
+	background-repeat: repeat-y;
+	background-size: cover;
+	color: white;
+}
+
+form{
+	
+	margin: 0 auto;
+	width: 1000px;
+	top:100px;
+}
+.panelCenter{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	
+}
+
+.divButton  {
+	display:flex;
+	justify-content:center;
+	align-items:flex-end;
+}
+
+.Button{
+	
+	border: none;
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: center;
+}
+
+.labelCenter{
+	
+	margin-left: 40%;
+}
